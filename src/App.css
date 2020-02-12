@@ -1,7 +1,8 @@
 .App {
   text-align: center;
-}
+  background-image:linear-gradient(to left,#036394,#97c6de);
 
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +37,8 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 72px;
+}
+
